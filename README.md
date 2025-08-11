@@ -4,7 +4,7 @@
 [![Network](https://img.shields.io/badge/Network-Paxeer-green.svg)](https://paxeer.app)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-DewPerp is a decentralized perpetual futures trading platform built on Paxeer Network, enabling users to trade synthetic assets with leverage using real-time price feeds from oracles.
+PaxPerp is a decentralized perpetual futures trading platform built on Paxeer Network, enabling users to trade synthetic assets with leverage using real-time price feeds from oracles.
 
 ## 🚀 Features
 
