@@ -1,4 +1,4 @@
-# ⚡ DewPerp - Decentralized Perpetual Futures
+# ⚡ PaxPerp - Decentralized Perpetual Futures
 
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.30-blue.svg)](https://soliditylang.org/)
 [![Network](https://img.shields.io/badge/Network-Paxeer-green.svg)](https://paxeer.app)
