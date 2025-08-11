@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "DewSwapLibrary",
+  "sourceName": "contracts/libraries/DewSwapLibrary.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212209982055c77b9ea2aa72c8105de40c37a80504a6141e5026e2df478effd1f8ee764736f6c634300081e0033",
+  "deployedBytecode": "0x600080fdfea26469706673582212209982055c77b9ea2aa72c8105de40c37a80504a6141e5026e2df478effd1f8ee764736f6c634300081e0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -1,0 +1,18 @@
+{
+  "network": "paxeer",
+  "chainId": 80000,
+  "deployer": "0x2fccd991Ecc9bEe62Bd10d751A5c5492e2a788C7",
+  "contracts": {
+    "WETH": "0xD0C1a714c46c364DBDd4E0F7b0B6bA5354460dA7",
+    "DewToken": "0xE3f28b9832e785120ffE444d47BC5f2a824EA766",
+    "DewSwapFactory": "0xf10f49fFa851042ea2e081b270650E75E90f77A3",
+    "DewSwapRouter": "0x7C6354B4a49aA2E20e025ea4C9387aC66e6e6a33",
+    "DewFarm": "0xc84D3Bf79eecC0404f30f4BA1903583C7AAdBDb9",
+    "DEW/WETH Pair": "0x535b87Ac04593De9a6c0BB7441A876d68bd9D6A0",
+    "DewSwapRouter_OLD": "0xe06875823f4080D117E965181868e3e5BaC1bED3"
+  },
+  "deployedAt": "2025-08-11T07:55:03.578Z",
+  "startBlock": 510,
+  "dewPerBlock": "10.0",
+  "updatedAt": "2025-08-11T08:38:14.646Z"
+}

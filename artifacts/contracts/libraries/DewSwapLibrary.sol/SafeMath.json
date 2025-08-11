@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SafeMath",
+  "sourceName": "contracts/libraries/DewSwapLibrary.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212200f52ed6d7edbd09687a473008b293a130f9a5f480a61b9f3eab9c7462c9d0b5f64736f6c634300081e0033",
+  "deployedBytecode": "0x600080fdfea26469706673582212200f52ed6d7edbd09687a473008b293a130f9a5f480a61b9f3eab9c7462c9d0b5f64736f6c634300081e0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

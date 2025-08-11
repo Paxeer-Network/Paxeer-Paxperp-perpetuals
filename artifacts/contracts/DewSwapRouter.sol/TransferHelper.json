@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "TransferHelper",
+  "sourceName": "contracts/DewSwapRouter.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea264697066735822122070d8faeea57d91c0aba4d8c9eeb8f21de334e598bbddee3f47b468c6fea840d464736f6c634300081e0033",
+  "deployedBytecode": "0x600080fdfea264697066735822122070d8faeea57d91c0aba4d8c9eeb8f21de334e598bbddee3f47b468c6fea840d464736f6c634300081e0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
